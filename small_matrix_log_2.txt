@@ -1,0 +1,15 @@
+
+--- Matrix Size: 500 x 500 ---
+1745811940 | Single-core Total Time: 5.8199s
+1745811940 | Multi-core Total Time: 10.0217s
+1745811940 | Overall Speedup: 0.58x
+
+--- Matrix Size: 1000 x 1000 ---
+1745812013 | Single-core Total Time: 53.1289s
+1745812013 | Multi-core Total Time: 84.2039s
+1745812013 | Overall Speedup: 0.63x
+
+--- Matrix Size: 1500 x 1500 ---
+1745813927 | Single-core Total Time: 163.5971s
+1745813927 | Multi-core Total Time: 334.4715s
+1745813927 | Overall Speedup: 0.49x
