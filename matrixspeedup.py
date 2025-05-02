@@ -9,7 +9,7 @@ from datetime import datetime
 OUTPUT_FILE = os.path.join(os.path.expanduser("~"), "Desktop", "matrix_speedup_log.txt")
 
 # Matrix sizes to test
-matrix_sizes = [500, 2000, 5000, 10000]  # Avoid 20000+ unless you have massive RAM
+matrix_sizes = [500, 2000, 5000, 10000, 15000, 17000, 20000, 30000, 40000]
 
 def generate_matrices(n):
     A = np.random.rand(n, n)
